@@ -38,7 +38,8 @@ For Hardware:
 For Software:
 # Installation
 webapp,
-1.
+1. autorickshaw-call.web.app : for users to check for the available autos in a locality.
+2. driver-dashbroad.web.app : for auto drivers to register themselves and change their availability
 
 
 # Run
