@@ -1,0 +1,87 @@
+/* Reset and basic styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Main container styling */
+.app-container {
+  height: auto;
+  width: 300px;
+  background-color: #ffcc00;
+  padding: 0px;
+  border: 100%;
+  border-radius: 10px;
+  color: #000;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Form styling */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+label {
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+}
+
+input[type="text"],
+input[type="tel"],
+select {
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+input[type="checkbox"] {
+  margin-left: 10px;
+}
+
+button {
+  background-color: #ccff33;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 0;
+  font-weight: bold;
+  cursor: pointer;
+  color: #000;
+}
+/* Add these styles to App.css */
+
+.availability-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.availability-button.available {
+  background-color: #28a745; /* Green for available */
+}
+
+.availability-button.unavailable {
+  background-color: #dc3545; /* Red for unavailable */
+}
