@@ -1,33 +1,33 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# RikshApp 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Yugam
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aquib Abdulla - College of engineering munnar
+- Member 2: Aflah Khalid - College of engineering munnar
+- Member 3: Sreeraj R - College of engineering munnar
 
 ### Project Description
-[2-3 lines about what your project does]
+Finding autorikshaws has been a real problem for the public, especially for the people who live in the native without uber. The RikshApp registers all the auto-drivers in the locality so that the public can find a auto driver easily. 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Finding autorikshaws has been a real problem for the public, especially for the people who live in the native without uber. this is the problem RikshApp solves.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+The auto drivers in a locality can register themselves in the RikshApp and these drivers can either set them as available or unavailable for ride, and the necessary public can checkout the app and hire the available drivers.  
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML, CSS, JAVASCRIPT
+- reactjs, firebase
+- firebase
+- firebase firestore
 
 For Hardware:
 - [List main components]
@@ -37,23 +37,28 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+webapp,
+1.
+
 
 # Run
+
 [commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+
+![ss1](https://github.com/user-attachments/assets/e0402df7-c598-492b-b23e-d23f26b8a426)
+This screenshot shows how the user will be able to see the available auto drivers in the locality.
+
+![ss2](https://github.com/user-attachments/assets/035a29ae-da90-459d-8a2e-0b48e34eb5cf)
+this screeen shot shows how an auto driver can register himslef on the RiskshApp for the service in which they can changee their availability also
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+The screenshot shows how the autodrivers can be contacted by the user.
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -80,17 +85,20 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+
+https://github.com/user-attachments/assets/b891478e-c4b9-4c2a-967a-fd844c0537a9
+
+
+The video demonstrates the whole functionality of the RikshApp in which a particular auto driver registers the auto and then a user requests his service in realtime and contacting him through the mobile number.
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+Aquib Abdulla: Project management, front-end development.
+Aflah Khalid: Back-end development, Firebase integration.
+Sreeraj R: UI design, testing and documentation
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
