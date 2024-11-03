@@ -1,0 +1,106 @@
+/* Reset and basic styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Main container styling */
+.app-container {
+  width: 300px;
+  background-color: #ffcc00;
+  padding: 20px;
+  border-radius: 10px;
+  color: #000;
+  text-align: center;
+}
+
+/* Logo and header styling */
+header .logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+}
+
+header .logo img {
+  width: 30px;
+  margin-right: 10px;
+}
+
+/* Search bar styling */
+.search-bar {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.search-bar input {
+  width: 80%;
+  padding: 8px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+}
+
+.search-bar button {
+  margin-left: 10px;
+height: 32px;
+width: 60px;
+  background: #fff;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+}
+
+
+
+/* Section header */
+h2 {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+/* Driver list and card styling */
+.driver-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.driver-card {
+  background-color: #000;
+  border-radius: 10px;
+  padding: 15px;
+  color: #ffcc00;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.driver-name {
+  font-weight: bold;
+}
+
+/* Call button styling */
+.call-button {
+  background-color: #ccff33;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+  color: #000;
+}
