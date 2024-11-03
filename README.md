@@ -1,33 +1,35 @@
+
+https://github.com/user-attachments/assets/4fc6b461-30a2-4797-86b6-5af3c7f378c1
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# RikshApp 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Yugam
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aquib Abdulla - College of engineering munnar
+- Member 2: Aflah Khalid - College of engineering munnar
+- Member 3: Sreeraj R - College of engineering munnar
 
 ### Project Description
-[2-3 lines about what your project does]
+Finding autorikshaws has been a real problem for the public, especially for the people who live in the native without uber. The RikshApp registers all the auto-drivers in the locality so that the public can find a auto driver easily. 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Finding autorikshaws has been a real problem for the public, especially for the people who live in the native without uber. this is the problem RikshApp solves.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+The auto drivers in a locality can register themselves in the RikshApp and these drivers can either set them as available or unavailable for ride, and the necessary public can checkout the app and hire the available drivers.  
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML, CSS, JAVASCRIPT
+- reactjs, firebase
+- firebase
+- firebase firestore
 
 For Hardware:
 - [List main components]
@@ -37,7 +39,10 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+Web app :
+1. driver-dashbroad.web.app (for auto drivers to register themselves and status).
+2. autorickshaw-call.web.app(for public to call available auto drivers in their locality)
+
 
 # Run
 [commands]
@@ -47,10 +52,15 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Uploading ss1.jpg…]()
+
+the webpage which shows the realtime available auto drivers for the user
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![ss2](https://github.com/user-attachments/assets/dcffb1df-e3ae-4170-802c-f8293f5b2afc)
+
+the webpage which lets the auto drivers register themselves and show their availibility status
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
@@ -80,16 +90,20 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+
+https://github.com/user-attachments/assets/9a75e84c-1f2d-4c94-93d0-8960de94d7a4
+
+
+This video explains the whole functionality of the app, in which an auto driver register himself and then a user contacts him by selecting location and call option.
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Aquib Abdulla: Project management, front-end development.
+Aflah Khalid: Back-end development, Firebase integration.
+Sreeraj R: UI design, testing and documentation
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
