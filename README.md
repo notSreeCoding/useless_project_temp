@@ -58,7 +58,7 @@ This screenshot shows how the user will be able to see the available auto driver
 ![ss2](https://github.com/user-attachments/assets/035a29ae-da90-459d-8a2e-0b48e34eb5cf)
 this screeen shot shows how an auto driver can register himslef on the RiskshApp for the service in which they can changee their availability also
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![ss3](https://github.com/user-attachments/assets/c13c4298-babb-4758-bb26-759029d87512)
 The screenshot shows how the autodrivers can be contacted by the user.
 
 # Diagrams
